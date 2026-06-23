@@ -1,5 +1,5 @@
 <!-- HERO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A9B1D6&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=I'm+a+Full+Stack+Software+%2F+Agentic+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A9B1D6&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Full+Stack+Software+%2F+Agentic+Developer" alt="Typing SVG" />
 
 <sub>I like building and exploring things.</sub>
 
@@ -33,17 +33,27 @@
 
 ### 🔥 Featured Projects
 
-- ⚡ **[Split](https://split-e3e.pages.dev/)** — Offline revenue splitting dashboard for small business (AI-powered data entry, smart analytics, 100% offline). *[[GitHub Repo](https://github.com/JM-Grande/split)]*
-- 🐔 **[Pollita](https://pollita-one.vercel.app/)** — A cute, humorous way to pop the questions.
-- 🔬 **[SciCalc](https://sci-calculator-theme.pages.dev/)** — Mobile-first scientific calculator with immersive mascot themes, Glassmorphism 2.0, Dynamic Mood System, and Web Worker math engine.
+**[Split](https://split-e3e.pages.dev/)**  
+Offline revenue splitting dashboard for small business — AI-powered data entry, smart analytics, 100% offline.  
+*[GitHub Repo](https://github.com/JM-Grande/split)*
+
+<br>
+
+**[Pollita](https://pollita-one.vercel.app/)**  
+A cute, humorous way to pop the questions.
+
+<br>
+
+**[SciCalc](https://sci-calculator-theme.pages.dev/)**  
+Mobile-first scientific calculator with immersive mascot themes, Glassmorphism 2.0, Dynamic Mood System, and Web Worker math engine.
 
 <br>
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JM-Grande&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Grande&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JM-Grande&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JM-Grande&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p>
