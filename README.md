@@ -1,9 +1,13 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=JM-Grande&label=Profile%20Views&color=1a1b27&style=flat" alt="Profile Views" />
+</div>
+
 <!-- HERO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A9B1D6&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Full+Stack+Software+%2F+Agentic+Developer" alt="Typing SVG" />
 
-<sub>I like building and exploring things.</sub>
+> I like building and exploring things.
 
-<br><br>
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -52,16 +56,10 @@ Mobile-first scientific calculator with immersive mascot themes, Glassmorphism 2
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JM-Grande&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JM-Grande&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JM-Grande&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JM-Grande&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Grande&theme=tokyo_night&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JM-Grande&label=Profile%20Views&color=1a1b27&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Grande&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
